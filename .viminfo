@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1681696989,,"wq!"
+|2,0,1681697190,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -31,40 +31,50 @@
 |3,0,36,0,1,0,1681265935,"l"
 
 # File marks:
-'0  4  0  ~/index.html
-|4,48,4,0,1681696989,"~/index.html"
-'1  7  6  ~/index.html
-|4,49,7,6,1681696792,"~/index.html"
-'2  5  6  ~/index.html
-|4,50,5,6,1681696792,"~/index.html"
-'3  5  9  ~/index.html
-|4,51,5,9,1681351505,"~/index.html"
-'4  5  9  ~/index.html
-|4,52,5,9,1681351505,"~/index.html"
-'5  3  9  ~/index.html
-|4,53,3,9,1681351505,"~/index.html"
-'6  3  9  ~/index.html
-|4,54,3,9,1681351505,"~/index.html"
-'7  3  7  ~/index.html
-|4,55,3,7,1681350932,"~/index.html"
-'8  3  7  ~/index.html
-|4,56,3,7,1681350932,"~/index.html"
-'9  3  7  ~/index.html
-|4,57,3,7,1681350932,"~/index.html"
+'0  4  4  ~/index.html
+|4,48,4,4,1681697190,"~/index.html"
+'1  4  0  ~/index.html
+|4,49,4,0,1681696989,"~/index.html"
+'2  7  6  ~/index.html
+|4,50,7,6,1681696792,"~/index.html"
+'3  5  6  ~/index.html
+|4,51,5,6,1681696792,"~/index.html"
+'4  7  6  ~/index.html
+|4,52,7,6,1681696792,"~/index.html"
+'5  5  6  ~/index.html
+|4,53,5,6,1681696792,"~/index.html"
+'6  5  9  ~/index.html
+|4,54,5,9,1681351505,"~/index.html"
+'7  5  9  ~/index.html
+|4,55,5,9,1681351505,"~/index.html"
+'8  3  9  ~/index.html
+|4,56,3,9,1681351505,"~/index.html"
+'9  3  9  ~/index.html
+|4,57,3,9,1681351505,"~/index.html"
 
 # Jumplist (newest first):
+-'  4  4  ~/index.html
+|4,39,4,4,1681697190,"~/index.html"
 -'  4  0  ~/index.html
 |4,39,4,0,1681696989,"~/index.html"
 -'  7  6  ~/index.html
 |4,39,7,6,1681696945,"~/index.html"
+-'  7  6  ~/index.html
+|4,39,7,6,1681696945,"~/index.html"
 -'  5  6  ~/index.html
 |4,39,5,6,1681696792,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1681696792,"~/index.html"
+-'  3  9  ~/index.html
+|4,39,3,9,1681696747,"~/index.html"
 -'  5  9  ~/index.html
 |4,39,5,9,1681696747,"~/index.html"
 -'  3  9  ~/index.html
 |4,39,3,9,1681696747,"~/index.html"
 -'  3  9  ~/index.html
 |4,39,3,9,1681351505,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
 -'  3  7  ~/index.html
 |4,39,3,7,1681351471,"~/index.html"
 -'  2  7  ~/index.html
@@ -81,6 +91,12 @@
 |4,39,1,0,1681350872,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  8  10  ~/index.html
+|4,39,8,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
 -'  8  10  ~/index.html
 |4,39,8,10,1681266596,"~/index.html"
 -'  6  10  ~/index.html
@@ -105,10 +121,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1681696982	0
-	"	4	0
-	^	4	0
-	.	3	8
+	*	1681697186	0
+	"	4	4
+	^	4	5
+	.	4	4
 	+	8	11
 	+	1	11
 	+	3	8
@@ -117,3 +133,4 @@
 	+	8	0
 	+	1	11
 	+	3	8
+	+	4	4
