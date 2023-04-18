@@ -66,3 +66,44 @@ git remote add origin
 git remote add origin https://github.com/Simha7075/MyGitRepo.git
 git remote -v
 git push -u origin master
+clear
+git remote -v
+git push -u origin master
+clear
+git pull
+ll
+cat index.html
+git status
+clear
+vi index.html
+git add .
+git commit -m "m"
+git push
+git pull
+cat index.html
+clear
+vi index.html
+git add.
+git add .
+git commit -m "m"
+git push
+vi index.html
+git add .
+git commit -m "m"
+clear
+git push -u origin master
+git pull
+git push -u origin master --force
+vi index.html
+git add .
+git commit -m "m"
+git pull
+git fetch
+git merge
+vi index.html
+git add .
+git commit -m "m"
+git push -u origin master
+git pull
+cat index.html
+clear

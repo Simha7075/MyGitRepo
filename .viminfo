@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1681697679,,"wq!"
+|2,0,1681783703,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -31,32 +31,40 @@
 |3,0,36,0,1,0,1681265935,"l"
 
 # File marks:
-'0  11  1  ~/index.html
-|4,48,11,1,1681697679,"~/index.html"
-'1  10  2  ~/index.html
-|4,49,10,2,1681697484,"~/index.html"
+'0  1  10  ~/file.txt
+|4,48,1,10,1681783703,"~/file.txt"
+'1  11  1  ~/index.html
+|4,49,11,1,1681697679,"~/index.html"
 '2  10  2  ~/index.html
 |4,50,10,2,1681697484,"~/index.html"
-'3  4  4  ~/index.html
-|4,51,4,4,1681697190,"~/index.html"
+'3  10  2  ~/index.html
+|4,51,10,2,1681697484,"~/index.html"
 '4  4  4  ~/index.html
 |4,52,4,4,1681697190,"~/index.html"
 '5  4  4  ~/index.html
 |4,53,4,4,1681697190,"~/index.html"
 '6  4  4  ~/index.html
 |4,54,4,4,1681697190,"~/index.html"
-'7  4  0  ~/index.html
-|4,55,4,0,1681696989,"~/index.html"
+'7  4  4  ~/index.html
+|4,55,4,4,1681697190,"~/index.html"
 '8  4  0  ~/index.html
 |4,56,4,0,1681696989,"~/index.html"
 '9  4  0  ~/index.html
 |4,57,4,0,1681696989,"~/index.html"
 
 # Jumplist (newest first):
+-'  1  10  ~/file.txt
+|4,39,1,10,1681783703,"~/file.txt"
+-'  11  1  ~/index.html
+|4,39,11,1,1681697679,"~/index.html"
 -'  11  1  ~/index.html
 |4,39,11,1,1681697679,"~/index.html"
 -'  10  2  ~/index.html
 |4,39,10,2,1681697635,"~/index.html"
+-'  10  2  ~/index.html
+|4,39,10,2,1681697635,"~/index.html"
+-'  10  2  ~/index.html
+|4,39,10,2,1681697484,"~/index.html"
 -'  10  2  ~/index.html
 |4,39,10,2,1681697484,"~/index.html"
 -'  4  4  ~/index.html
@@ -64,7 +72,15 @@
 -'  4  4  ~/index.html
 |4,39,4,4,1681697463,"~/index.html"
 -'  4  4  ~/index.html
+|4,39,4,4,1681697463,"~/index.html"
+-'  4  4  ~/index.html
+|4,39,4,4,1681697463,"~/index.html"
+-'  4  4  ~/index.html
 |4,39,4,4,1681697190,"~/index.html"
+-'  4  4  ~/index.html
+|4,39,4,4,1681697190,"~/index.html"
+-'  4  0  ~/index.html
+|4,39,4,0,1681696989,"~/index.html"
 -'  4  0  ~/index.html
 |4,39,4,0,1681696989,"~/index.html"
 -'  7  6  ~/index.html
@@ -75,6 +91,22 @@
 |4,39,7,6,1681696945,"~/index.html"
 -'  7  6  ~/index.html
 |4,39,7,6,1681696945,"~/index.html"
+-'  7  6  ~/index.html
+|4,39,7,6,1681696945,"~/index.html"
+-'  7  6  ~/index.html
+|4,39,7,6,1681696945,"~/index.html"
+-'  7  6  ~/index.html
+|4,39,7,6,1681696945,"~/index.html"
+-'  7  6  ~/index.html
+|4,39,7,6,1681696945,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1681696792,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1681696792,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1681696792,"~/index.html"
+-'  5  6  ~/index.html
+|4,39,5,6,1681696792,"~/index.html"
 -'  5  6  ~/index.html
 |4,39,5,6,1681696792,"~/index.html"
 -'  5  6  ~/index.html
@@ -94,6 +126,18 @@
 -'  3  9  ~/index.html
 |4,39,3,9,1681696747,"~/index.html"
 -'  3  9  ~/index.html
+|4,39,3,9,1681696747,"~/index.html"
+-'  3  9  ~/index.html
+|4,39,3,9,1681696747,"~/index.html"
+-'  3  9  ~/index.html
+|4,39,3,9,1681696747,"~/index.html"
+-'  5  9  ~/index.html
+|4,39,5,9,1681696747,"~/index.html"
+-'  3  9  ~/index.html
+|4,39,3,9,1681696747,"~/index.html"
+-'  3  9  ~/index.html
+|4,39,3,9,1681351505,"~/index.html"
+-'  3  9  ~/index.html
 |4,39,3,9,1681351505,"~/index.html"
 -'  2  7  ~/index.html
 |4,39,2,7,1681351471,"~/index.html"
@@ -108,7 +152,35 @@
 -'  2  7  ~/index.html
 |4,39,2,7,1681351471,"~/index.html"
 -'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
+-'  3  7  ~/index.html
+|4,39,3,7,1681351471,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681351471,"~/index.html"
+-'  2  7  ~/index.html
 |4,39,2,7,1681350932,"~/index.html"
+-'  2  7  ~/index.html
+|4,39,2,7,1681350932,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681350872,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1681350872,"~/index.html"
 -'  1  0  ~/index.html
@@ -149,14 +221,47 @@
 |4,39,2,10,1681266596,"~/index.html"
 -'  2  11  ~/index.html
 |4,39,2,11,1681266596,"~/index.html"
+-'  8  10  ~/index.html
+|4,39,8,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
+-'  8  10  ~/index.html
+|4,39,8,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
+-'  8  10  ~/index.html
+|4,39,8,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
+-'  8  10  ~/index.html
+|4,39,8,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
+-'  6  10  ~/index.html
+|4,39,6,10,1681266596,"~/index.html"
+-'  4  10  ~/index.html
+|4,39,4,10,1681266596,"~/index.html"
+-'  3  10  ~/index.html
+|4,39,3,10,1681266596,"~/index.html"
+-'  2  10  ~/index.html
+|4,39,2,10,1681266596,"~/index.html"
+-'  2  11  ~/index.html
+|4,39,2,11,1681266596,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1681266100,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1681266100,"~/index.html"
 -'  1  0  ~/index.html
 |4,39,1,0,1681266057,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1681265910,"~/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/file.txt
+	*	1681783698	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/index.html
 	*	1681697673	0
